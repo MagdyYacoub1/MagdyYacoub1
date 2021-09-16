@@ -1,10 +1,8 @@
-### Hi there 👋
+<img src="https://media.giphy.com/media/1BfRG8cK5SPOer97aK/source.gif?cid=ecf05e47rebqyw0e2o2ew2gv4vi4pgpbamb5nzbq89brwm1a&rid=source.gif&ct=g" width=1000 height= 300 />
 
+### Hi,I'm Magdy Yacoub👋👨‍💻
+I'm a software engineer. I'm very passionate about new technolgies and learning more about them. 
 <!--
-**MagdyYacoub1/MagdyYacoub1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
