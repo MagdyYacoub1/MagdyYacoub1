@@ -1,7 +1,7 @@
 
 ### Hi,I'm Magdy Yacoub👋👨‍💻
 #
-<img src="https://media.giphy.com/media/7b8jdNUoFBdcoILjjv/giphy.gif" width=100% height= 300 alt="Software Engineer"/>
+<img src="https://media.giphy.com/media/KouuVwfTuArOWeerLM/giphy.gif" width=100% height= 300 alt="Software Engineer"/>
 
 I'm a software engineer. I'm very passionate about new technolgies. I enjoy learning more about them and always try to include these technologies in my work. I 
 
