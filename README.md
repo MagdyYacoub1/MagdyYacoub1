@@ -1,7 +1,13 @@
-<img src="https://media.giphy.com/media/1BfRG8cK5SPOer97aK/source.gif?cid=ecf05e47rebqyw0e2o2ew2gv4vi4pgpbamb5nzbq89brwm1a&rid=source.gif&ct=g" width=1000 height= 300 />
+<img src="https://media.giphy.com/media/KouuVwfTuArOWeerLM/giphy.gif" width=100% height= 300 alt="Software Engineer"/>
 
 ### Hi,I'm Magdy Yacoub👋👨‍💻
-I'm a software engineer. I'm very passionate about new technolgies and learning more about them. 
+I'm a software engineer. I'm very passionate about new technolgies. I enjoy learning more about them and always try to include these technologies in my work. 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MagdyYacoub1&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
