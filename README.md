@@ -9,7 +9,7 @@ I'm a software engineer. I'm very passionate about new technologies. I enjoy lea
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/magdy-yacoub-652a09157/)
 </a>&nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:magdyyakob32@gmail.com)
+[![Gmail: magdyyakob32@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:magdyyakob32@gmail.com)
 
 
 - 🔭 I’m currently working on self projects in Flutter
