@@ -1,5 +1,5 @@
 
-### Hi<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,I'm Magdy Yacoub  👨‍💻
+### Hi<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height= "35px">,I'm Magdy Yacoub  👨‍💻
 #
 <!--<img src="https://media.giphy.com/media/KouuVwfTuArOWeerLM/giphy.gif" width=100% height= 250 alt="Software Engineer"/>-->
 <img src="https://github.com/MagdyYacoub1/MagdyYacoub1/blob/main/header.gif" width=100% height= 300 alt="Software Engineer"/>
@@ -18,10 +18,14 @@ I'm a software engineer. I'm very passionate about new technologies. I enjoy lea
 
 
 #
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MagdyYacoub1&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=15,7986CB,3F51B5,7986CB&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MagdyYacoub1&hide_border=true&background=7986CB&theme=highcontrast)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MagdyYacoub1&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=15,7986CB,3F51B5,7986CB&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MagdyYacoub1&hide_border=true&background=7986CB&theme=highcontrast)](https://git.io/streak-stats)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=MagdyYacoub1)
-
-
+<!---
+<a href="https://git.io/streak-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagdyYacoub1&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=15,7986CB,3F51B5,7986CB&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats](https://github-readme-streak-stats.herokuapp.com/?user=MagdyYacoub1&hide_border=true&background=7986CB&theme=highcontrast" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MagdyYacoub1&hide_border=true&background=7986CB&theme=highcontrast" />
+</a>
+-->
