@@ -1,8 +1,11 @@
 
 ### Hi<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height= "35px">,I'm Magdy Yacoub  👨‍💻
+![header](version-2.gif)
 #
 <!--<img src="https://media.giphy.com/media/KouuVwfTuArOWeerLM/giphy.gif" width=100% height= 250 alt="Software Engineer"/>
 <img src="https://github.com/MagdyYacoub1/MagdyYacoub1/blob/main/header.gif" width=100% height= 300 alt="Software Engineer"/>-->
+
+
 I'm a software engineer. I'm very passionate about new technologies. I enjoy learning more about state-of-the-art technologies and always try to include them in my work.
 
 <h3>📞 How to reach me:</h3>
