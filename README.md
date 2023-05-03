@@ -11,7 +11,7 @@ I'm a software engineer. I'm very passionate about new technologies. I enjoy lea
 <h3>📞 How to reach me:</h3>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/magdy-yacoub-652a09157/)
-![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
+[![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~015fa0e98620220cc5)
 [![Gmail: magdyyakob32@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:magdyyakob32@gmail.com)
 
 
@@ -45,7 +45,7 @@ I'm a software engineer. I'm very passionate about new technologies. I enjoy lea
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 
 #
-<details> 
+<details open> 
 <summary><h2>📊 Github Stats and Activity</h2></summary>
 <b>Work Summary</b>
 
