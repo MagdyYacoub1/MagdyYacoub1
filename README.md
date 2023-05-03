@@ -46,7 +46,16 @@ I'm a software engineer. I'm very passionate about new technologies. I enjoy lea
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MagdyYacoub1&exclude_repo=Header_animation_P5_js&hide_border=true&show_icons=true&card_width=500&include_all_commits=true&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=15,7986CB,3F51B5,7986CB&layout=default&border_radius=7&langs_count=5&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br><b>My Statistics</b><br><br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MagdyYacoub1&hide_border=true&ring=33FF33&fire=EB5454&mode=weekly&background=15,7986CB,3F51B5,7986CB&currStreakLabel=ffffff&theme=highcontrast&border_radius=7)](https://git.io/streak-stats)     [![GitHub stats](https://github-readme-stats.vercel.app/api?username=MagdyYacoub1&show_icons=true&count_private=true&include_all_commits=true&icon_color=33ff33&rank_icon=github&ring_color=33ff33&title_color=ffffff&text_color=ffffff&bg_color=15,7986CB,3F51B5,7986CB&layout=default&card_width=150&hide_border=true&border_radius=7&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MagdyYacoub1&hide_border=true&ring=33FF33&fire=EB5454&mode=weekly&background=15,7986CB,3F51B5,7986CB&currStreakLabel=ffffff&theme=highcontrast&border_radius=7" alt="GitHub Streak"/>
+  </a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api?username=MagdyYacoub1&show_icons=true&count_private=true&include_all_commits=true&icon_color=33ff33&rank_icon=github&ring_color=33ff33&title_color=ffffff&text_color=ffffff&bg_color=15,7986CB,3F51B5,7986CB&layout=default&card_width=150&hide_border=true&border_radius=7&theme=github_dark)](https://git.io/streak-stats" alt="GitHub stats"/>
+  </a>
+
+<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MagdyYacoub1&hide_border=true&ring=33FF33&fire=EB5454&mode=weekly&background=15,7986CB,3F51B5,7986CB&currStreakLabel=ffffff&theme=highcontrast&border_radius=7)](https://git.io/streak-stats) [![GitHub stats](https://github-readme-stats.vercel.app/api?username=MagdyYacoub1&show_icons=true&count_private=true&include_all_commits=true&icon_color=33ff33&rank_icon=github&ring_color=33ff33&title_color=ffffff&text_color=ffffff&bg_color=15,7986CB,3F51B5,7986CB&layout=default&card_width=150&hide_border=true&border_radius=7&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)-->
 
 
 ![Profile Visitors](https://visitor-badge.laobi.icu/badge?page_id=MagdyYacoub1)
