@@ -47,16 +47,14 @@ I'm a software engineer. I'm very passionate about new technologies. I enjoy lea
 
 <br><b>My Statistics</b><br><br>
 
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MagdyYacoub1&hide_border=true&ring=33FF33&fire=EB5454&mode=weekly&background=15,7986CB,3F51B5,7986CB&currStreakLabel=ffffff&theme=highcontrast&border_radius=7" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MagdyYacoub1&hide_border=true&ring=33FF33&fire=EB5454&mode=weekly&background=15,7986CB,3F51B5,7986CB&currStreakLabel=ffffff&theme=highcontrast&border_radius=7" alt="GitHub Streak" height="210px/>
   </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api?username=MagdyYacoub1&show_icons=true&count_private=true&include_all_commits=true&icon_color=33ff33&rank_icon=github&ring_color=33ff33&title_color=ffffff&text_color=ffffff&bg_color=15,7986CB,3F51B5,7986CB&layout=default&card_width=150&hide_border=true&border_radius=7&theme=github_dark)](https://git.io/streak-stats" alt="GitHub stats"/>
-  </a>
+    <img src="https://github-readme-stats.vercel.app/api?username=MagdyYacoub1&show_icons=true&count_private=true&include_all_commits=true&icon_color=33ff33&rank_icon=github&ring_color=33ff33&title_color=ffffff&text_color=ffffff&bg_color=15,7986CB,3F51B5,7986CB&layout=default&card_width=150&hide_border=true&border_radius=7&theme=github_dark)](https://git.io/streak-stats" alt="GitHub stats" height="210px/>
+  </a><br>
 
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MagdyYacoub1&hide_border=true&ring=33FF33&fire=EB5454&mode=weekly&background=15,7986CB,3F51B5,7986CB&currStreakLabel=ffffff&theme=highcontrast&border_radius=7)](https://git.io/streak-stats) [![GitHub stats](https://github-readme-stats.vercel.app/api?username=MagdyYacoub1&show_icons=true&count_private=true&include_all_commits=true&icon_color=33ff33&rank_icon=github&ring_color=33ff33&title_color=ffffff&text_color=ffffff&bg_color=15,7986CB,3F51B5,7986CB&layout=default&card_width=150&hide_border=true&border_radius=7&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)-->
-
 
 ![Profile Visitors](https://visitor-badge.laobi.icu/badge?page_id=MagdyYacoub1)
 
