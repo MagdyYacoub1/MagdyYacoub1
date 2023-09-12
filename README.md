@@ -9,7 +9,7 @@
 
 I'm a software engineer. I'm very passionate about new technologies. I enjoy learning more about state-of-the-art technologies and always try to include them in my work.
 
-- 🔭 I’m currently working on self projects in Flutter.
+- 🔭 I’m currently working on self-projects in Flutter.
 - 🌱 I’m currently learning Data science and deep learning.
 - ⚡ Fun fact: I enjoy 3D modeling and animations.
 
@@ -48,10 +48,12 @@ I'm a software engineer. I'm very passionate about new technologies. I enjoy lea
 #
 <details open> 
 <summary><h2>📊 Github Stats and Activity</h2></summary>
+    
+<!---
+<h3>Top Languages</h3>
 
-<!--<h3>Top Languages</h3>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MagdyYacoub1&exclude_repo=Header_animation_P5_js&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=15,7986CB,3F51B5&layout=default&border_radius=7&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MagdyYacoub1&exclude_repo=Header_animation_P5_js&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=15,7986CB,3F51B5&layout=default&border_radius=7&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <h3>My Statistics</h3>
 
