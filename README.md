@@ -1,7 +1,7 @@
 
 ### Hi<img src="Hi.gif" height= "35px">,I'm Magdy Yacoub  👨‍💻
 ![header](version-2.gif)
-
+*Nice Fact: This message was created by code
 #
 <!--<img src="https://media.giphy.com/media/KouuVwfTuArOWeerLM/giphy.gif" width=100% height= 250 alt="Software Engineer"/>
 <img src="https://github.com/MagdyYacoub1/MagdyYacoub1/blob/main/header.gif" width=100% height= 300 alt="Software Engineer"/>-->
