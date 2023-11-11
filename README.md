@@ -10,7 +10,7 @@
 I'm a software engineer. I'm very passionate about new technologies. I enjoy learning more about state-of-the-art technologies and always try to include them in my work.
 
 - 🔭 I’m currently working on self-projects in Flutter.
-- 🌱 I’m currently learning Data science and deep learning.
+- 🌱 I’m currently learning application development and backend technologies.
 - ⚡ Fun fact: I enjoy 3D modeling and animations.
 
 <br>
