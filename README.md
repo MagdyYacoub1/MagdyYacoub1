@@ -16,7 +16,7 @@ I'm a software engineer. I'm very passionate about new technologies. I enjoy lea
 <br>
 <h2>📞 How to reach me:</h2>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/magdy-yacoub-652a09157/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/magdy-yacoub-abdo-652a09157/)
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~015fa0e98620220cc5)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&label=magdyyakob32@gmail.com)](mailto:magdyyakob32@gmail.com)
 
